@@ -14,3 +14,6 @@ sus manos.
 Dirigido a emprendedores del rubro de repostería, con el fin de organizar desde sus insumos,
 compras, presupuesto, margen de resultado (precio, costo, resultado obtenido) hasta los clientes
 que solicitan de sus servicios
+
+**Evaluación Modeulo 3 FULL STACK JAVA**
+--Grupo Coffe Java: Raquel, Dam, Javi, Ignacio, Cristian P., Cecilia--
